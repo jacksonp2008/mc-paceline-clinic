@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<manifest identifier="GH-bJJ0vJoTU6KyhSA2mL99ulHR1REMQmBxlwGQU" version="1"
+<manifest identifier="GH-bJJ0vJoTU6KyhSA2mL99ulHR1REMQtdWfT-rU" version="1"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -16,7 +16,7 @@
       <title>Pace Line Clinic</title>
       <item identifier="i1" identifierref="r1" isvisible="true">
         <title>Pace Line Clinic</title>
-        <adlcp:datafromlms>eyJjcHYiOiJtQnhsd0dRVSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+        <adlcp:datafromlms>eyJjcHYiOiJ0ZFdmVC1yVSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
       </item>
     </organization>
   </organizations>
@@ -60,9 +60,9 @@
 <file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
 <file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
 <file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
-<file href="scormcontent/assets/xqASrOOQpcYGKFIf_small.png" />
-<file href="scormcontent/assets/7pvOcej2zDJWBMY0_Cs4Zlnp2_FYBD260.png" />
-<file href="scormcontent/assets/a3HybplQQ_WESWkG_KCevSWav0Kzq0qpC.jpg" />
+<file href="scormcontent/assets/eK9n0mj3DyyIuuK5_small.png" />
+<file href="scormcontent/assets/YfcrB7GvexeqFJPO_Cs4Zlnp2_FYBD260.png" />
+<file href="scormcontent/assets/EVpm__Oa_FIWkaEd_7FdUO11q7P6K_CC8.jpg" />
 
     </resource>
   </resources>
